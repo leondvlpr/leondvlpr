@@ -5,7 +5,7 @@
 
 - 🌱 Own project in process - Frontend [FerreAdmin - (React, Redux)](https://github.com/leondvlpr/ferreadmin-frontend)
 
-- 🌱 Own project in process - Backend [Backend - (Java, Spring, PostgreSQL)](https://github.com/leondvlpr/ferreadmin-backend)
+- 🌱 Own project in process - Backend [FerreAdmin - (Java, Spring, PostgreSQL)](https://github.com/leondvlpr/ferreadmin-backend)
 
 - 📫 How to reach me **leondvlpr@gmail.com**
 
